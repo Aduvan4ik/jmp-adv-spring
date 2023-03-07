@@ -1,6 +1,6 @@
 To run app:   
 mvn clean install  
-java -jar .\target\jmp-adv-spring-0.0.1-SNAPSHOT.jar
+java -jar .\task-3\target\task3.jar
 
 next endpoints are available for all requests:  
 http://localhost:8080/actuator/info  
